@@ -1,0 +1,1 @@
+This is a simple Website Calculator that uses JS, HTML, and CSS. You can only do one operation at a time. Individual buttons can be modified through the CSS. All functions are done through JS so any extra functionality should be added through the .js file. 
