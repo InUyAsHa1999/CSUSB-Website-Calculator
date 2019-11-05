@@ -1,0 +1,93 @@
+#body {
+    margin-left: auto;
+    margin-right: auto;
+}
+.button {
+    position: relative;
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    border-radius: 20px;
+    border-width: 6px;
+    border-style: inset;
+}
+.C_Box {
+    position: relative;
+    width: 400px;
+    height: 20px;
+    margin: 5px;
+    background-color: lightcoral;
+    border-style: inset;
+    border-width: 5px;
+    border-color: yellow;
+}
+
+
+.A_Box {
+    position: relative;
+    width: 400px;
+    height: 80px;
+    margin: 5px;
+    background-color: lightcoral;
+    border-style: inset;
+    border-width: 5px;
+    border-color: yellow;
+    font-size: 50px;
+}
+.button:hover
+{
+    opacity: 0.8;
+    background-color: lightblue;
+    
+}
+
+#a0{
+    
+    
+}
+
+#a2 {
+    
+}
+
+#a3 {
+    
+}
+
+#a4 {
+    
+}
+
+#a5 {
+   
+}
+
+#a6 {
+    
+}
+
+#a7 {
+    
+}
+
+#a8 {
+   
+}
+
+#a9 {
+    
+}
+
+#a1 {
+    
+}
+
+#Row5
+{
+    position:relative;
+    right:-600px;
+}
+
+#Question {
+   
+}
